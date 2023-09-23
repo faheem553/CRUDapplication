@@ -1,0 +1,32 @@
+{
+  "productForm": [
+    {
+      "producName": "apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 50,
+      "comment": "this is fresh apple",
+      "date": "2022-11-13T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "producName": "mango",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 50222,
+      "comment": "not fresh",
+      "date": "2022-11-15T18:30:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
